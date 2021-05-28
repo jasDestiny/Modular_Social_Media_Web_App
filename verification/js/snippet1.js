@@ -1,0 +1,5 @@
+var a="0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@0000aaaa@@@@@";
+document.getElementsByName("screenName").value=a;
+document.getElementsByName("password").valuea+"@gmail.com";
+document.getElementsByName("email").valuea+"@gmail.com";
+$0.click();
