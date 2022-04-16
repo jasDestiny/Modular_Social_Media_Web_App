@@ -1,8 +1,5 @@
 <?php
- /*
-  Developed by Aizaz dinho (@aizazdinho)
-  Designed  by Meezan (@iamMeezi)
- */
+
  class Follow extends User{
  	protected $message;
 
