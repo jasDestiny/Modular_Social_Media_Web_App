@@ -1,8 +1,5 @@
 	<?php
- /*
-  Developed by Aizaz dinho (@aizazdinho)
-  Designed  by Meezan (@iamMeezi)
- */ 
+
 class Tweet extends User{
 	protected $message;
 
