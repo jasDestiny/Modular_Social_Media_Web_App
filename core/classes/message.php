@@ -1,10 +1,5 @@
 <?php
-/*  
-   This template created by Meralesson.com
-   This template only use for educational purpose
-   Design by Meezan(@iamMeezi)
-   Developed by Aizaz Dinho(@aizazdinho)
-*/ 
+
   class Message extends User{
     function __construct($pdo) {
       $this->pdo = $pdo;
